@@ -28,7 +28,7 @@ Uygulama, hem **Gemini Yapay Zekâ API'si** aracılığıyla kullanıcılarla ca
 *   Kilitlenmeyen, akıcı ve kullanıcı dostu mesajlaşma arayüzü (UX).
 *   API anahtarı bulunmadığında otomatik olarak devreye giren zengin **Çevrimdışı İrfan Havuzu**.
 
-### 2. 🎮 Oyunlaştırma & Seviye (Makâm) Sistemi (%25 Puan Ağırlığı)
+### 2. 🎮 Oyunlaştırma & Seviye (Makâm) Sistemi
 *   Uygulama içi aktivitelerle (AI ile sohbet etme, bilge kartlarını okuma vb.) kazanılan **İlahi Nur Puanı (IP)**.
 *   Kademeli makâm/seviye sistemi:
     *   **Müptedi** (Başlangıç)
@@ -38,7 +38,7 @@ Uygulama, hem **Gemini Yapay Zekâ API'si** aracılığıyla kullanıcılarla ca
 *   Seviye atlandığında tetiklenen, 60fps akıcılığında özel tasarlanmış altın renkli **"İlahi Nur" Animasyon Efekti**.
 *   Kazanılan altın rozetlerin ve ilerleme çubuğunun profil ekranında gösterimi.
 
-### 3. 📂 MVVM Yazılım Mimarisi (%35 Puan Ağırlığı)
+### 3. 📂 MVVM Yazılım Mimarisi 
 *   Spagetti koddan uzak, sektör standartlarına uygun klasör yapısı:
     *   `src/components/`: Yeniden kullanılabilir arayüz bileşenleri.
     *   `src/screens/`: Görünüm katmanları (View).
